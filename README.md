@@ -5,8 +5,14 @@
 </p>
 
 ### Hi there 👋
-
+ - Name : Aellim Sun (Korean Name : Sung Myung Gun)
+ - Email : elim9010@gmail.com
+ - 🌱 I’m currently learning IoT SmartFactory
+ - 
 <!--
+
+<img src="https://github-readme-stats.vercel.app/api?username=hugoMGSung&theme=synthwave&show_icons=true"/>
+
 **AellimSun/AellimSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
