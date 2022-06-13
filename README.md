@@ -10,7 +10,7 @@
  - 🌱 I’m currently learning IoT SmartFactory
 
 
-    <img src="https://github-readme-stats.vercel.app/api?sername=hugoMGSung&theme=synthwave&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?sername=AellimSun&theme=synthwave&show_icons=true"/>
 
 <!--
 
