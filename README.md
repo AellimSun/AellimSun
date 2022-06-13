@@ -5,12 +5,13 @@
 </p>
 
 ### Hi there 👋
- - Name : Aellim Sun (Korean Name : Sung Myung Gun)
+ - Name : Aellim Sun (Korean Name : Sun Ael Lim)
  - Email : elim9010@gmail.com
  - 🌱 I’m currently learning IoT SmartFactory
 
 
     <img src="https://github-readme-stats.vercel.app/api?sername=AellimSun&theme=synthwave&show_icons=true"/>
+    
 
 <!--
 
