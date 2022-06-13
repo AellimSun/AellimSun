@@ -1,6 +1,7 @@
 <p align='center'>
   <a href="https://github.com/AellimSun">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=FFFFFF&height=300&section=header&text=Study%20Repository&fontSize=50"/>
+    <img src="https://github-readme-stats.vercel.app/api?sername=hugoMGSung&theme=synthwave&show_icons=true"/>
   </a>
 </p>
 
@@ -11,7 +12,6 @@
  - 
 <!--
 
-<img src="https://github-readme-stats.vercel.app/api?username=hugoMGSung&theme=synthwave&show_icons=true"/>
 
 **AellimSun/AellimSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
