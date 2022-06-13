@@ -12,11 +12,17 @@
 
     <img src="https://github-readme-stats.vercel.app/api?sername=AellimSun&theme=synthwave&show_icons=true"/>
     
+## Tech Stack
+  Languages
+<p>
+<a href="https://github.com/AellimSun/StudyWPF.git" target="_blank"><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/></a>
+
+</p>
+
+## Project List
+ -[WPF] [WPF Project](https://github.com/AellimSun/StudyWpf)
 
 <!--
-
-
-
 **AellimSun/AellimSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
