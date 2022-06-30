@@ -35,6 +35,8 @@
 
 ## Project List
  -[WPF] [WPF Project](https://github.com/AellimSun/StudyWpf)
+ -[AVR] [AVR Pfoject](https://github.com/AellimSun/StudyAVR)
+ -[Linux] [Linux Project]
 
 <!--
 **AellimSun/AellimSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
