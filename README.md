@@ -18,7 +18,7 @@
 <a href="https://github.com/AellimSun/StudyWPF.git" target="_blank"><img alt="C" src="https://img.shields.io/badge/c-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/></a>
   <a href="https://github.com/AellimSun/StudyWPF.git" target="_blank"><img alt="C++" src="https://img.shields.io/badge/c++-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/></a>
   <a href="https://github.com/AellimSun/StudyWPF.git" target="_blank"><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/></a>
-  <a href="https://github.com/AellimSun/StudyWPF.git" target="_blank"><img alt="Linux" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/></a>
+  <!-- a href="https://github.com/AellimSun/StudyWPF.git" target="_blank"><img alt="Linux" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/></a-->
 </p>
 
 ## Using Tools
@@ -30,16 +30,25 @@
     <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/PuTTY_icon_128px.png">
     <img height="40" src="https://img.icons8.com/color/48/000000/raspberry-pi.png">
     <img height="40" src="https://mosquitto.org/stickers/mosquitto-mono.png">
-    <!--img height="40" src="https://img.icons8.com/fluent/48/000000/vmware-workstation-player.png"-->
+    <img height="40" src="https://img.icons8.com/fluent/48/000000/vmware-workstation-player.png">
     <img height="40" src="https://taiwebs.com/upload/icons/vnc-connect-enterprise220-220.png">
 </p>
 
 ## Project List
  -[WPF] [WPF Project](https://github.com/AellimSun/StudyWpf)
+ 
  -[AVR] [AVR Pfoject](https://github.com/AellimSun/StudyAVR)
+ 
  -[Linux] [Linux Project]
 
+
+
+
 <!--
+
+
+
+
 **AellimSun/AellimSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
