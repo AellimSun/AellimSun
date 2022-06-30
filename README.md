@@ -18,6 +18,7 @@
 <a href="https://github.com/AellimSun/StudyWPF.git" target="_blank"><img alt="C" src="https://img.shields.io/badge/c-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/></a>
   <a href="https://github.com/AellimSun/StudyWPF.git" target="_blank"><img alt="C++" src="https://img.shields.io/badge/c++-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/></a>
   <a href="https://github.com/AellimSun/StudyWPF.git" target="_blank"><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/></a>
+  <a href="https://github.com/AellimSun/StudyWPF.git" target="_blank"><img alt="Linux" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/></a>
 </p>
 
 ## Using Tools
