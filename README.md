@@ -39,7 +39,7 @@
  
  -[AVR] [AVR Pfoject](https://github.com/AellimSun/StudyAVR)
  
- -[Linux] [Linux Project]
+ -[Linux] [Linux Project](https://github.com/AellimSun/StudyLinux)
 
 
 
