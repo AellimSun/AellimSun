@@ -41,6 +41,10 @@
  
  -[Linux] [Linux Project](https://github.com/AellimSun/StudyLinux)
 
+ -[C] [ERP Project](https://github.com/AellimSun/Cereal_ERP)
+
+ -[C#] [BoardGame Dominion Project](https://github.com/AellimSun/Dominion-project_pamatto)
+
 
 
 
